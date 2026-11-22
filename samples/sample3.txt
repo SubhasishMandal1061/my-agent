@@ -1,0 +1,10 @@
+mon: done with oauth login featuere (AUTH-89), pr opened but test failing in ci
+mon: rohit spent 4 hrs debugging prod issue... db connection leak in orders api
+tue: deployed v0.9 to stg... 22/25 tests passed. rest failed bcuz of bad mock data
+tue: waitin on sec team for port approval so cant deploy to uat yet. deepak to ping them tomoro
+wed: vendor might delay delivery of analytics sdk by 2 wks, cud slip launch date
+wed: demo with acme client went ok they want bigger font on mobile
+thu: sunil stuck on memry leak in worker-service (SRV-44) - crash loops after 100 reqs
+thu: fixed some css bugs on Safari (UI-12, UI-14)
+fri: nxt week gona start kafka consumer rewrite and prep release checklist for friday
+fri: blocked cant see k8s pod logs in dev cluster permission denied ticket open with sysadmin

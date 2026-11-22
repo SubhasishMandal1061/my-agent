@@ -1,0 +1,4 @@
+Tue: Anita shipped the invoice PDF export feature (INV-55) to production ahead of schedule
+Wed: Risk: cloud database disk usage reached 84%, automated alerts triggered, could impact 10 Dec batch run
+Thu: Blocked: waiting for third-party shipping API key, Marcus to follow up by Friday
+Fri: Next week the team plans to run database vacuuming and start multi-currency billing tasks

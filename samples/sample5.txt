@@ -1,0 +1,6 @@
+Mon: Completed migration of user profiles to new cluster, all verification scripts passed
+Tue: Major blocker: warehouse inventory sync service crashed in staging, no one assigned to investigate yet
+Wed: Severe risk: regulatory compliance audit is coming up soon and several audit logs are missing
+Thu: Release candidate was deployed but regression tests are failing randomly
+Fri: Blocked: third-party email provider suspended sandbox account due to billing issue
+Fri: Next week team will prepare client presentation and review pending backlog items
